@@ -1,4 +1,4 @@
-#Japanese Scripts
+# Japanese Scripts
 
 *Hiragana* 0x3041 - 0x3096
 
