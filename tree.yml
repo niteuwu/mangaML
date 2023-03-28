@@ -4,12 +4,14 @@ Img2txt:
     get_chn
     get_kor
     get_total
+    meta
   Preprocess:
     txt2img
     augment
   Table:
     createTable
     addColumn
+    makeDF
     pkgTable
     getTable
   Model:
